@@ -1,8 +1,7 @@
 ### Hi there! 👋
 My name is Melih. You can see me with Mexy or Mexy1864 nickname on internet.
-- 🌱 I’m currently secondary school student.
-- 🤔 I’m looking for help with starting to coding world.
-- 📫 How to reach me: mexy@mexy.com.tr
+- 🌱 I’m currently learning PHP and HTML languages.
+- 📫 How to reach me: melihdmn@hotmail.com 
 - 😄 Pronouns: He/Him
 <!--
 **mexy1864/mexy1864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
